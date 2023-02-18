@@ -1,0 +1,70 @@
+btn:hover{
+    background-color: #DC143C;
+}
+.btn{
+    width: 90%;
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    background-color: #DC143C  ; 
+    cursor: pointer;
+}
+
+
+.botao{
+    width: 90%;
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    background-color: #DC143C  ;
+    cursor: pointer;
+    
+}
+.href{
+    color: #7B68EE;
+}
+
+.ul{
+    justify-content: center;
+    display: flex;
+    background-color: #DC143C;
+}
+a:hover{
+    color: #FF6347;
+    transition: 0.5ms;
+}
+a{
+    color:white;
+    justify-content: center;
+}
+b{
+
+Color:#DC143C;
+}
+body{
+    background-color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+fieldset{
+
+
+    position: absolute;
+    top: 17%;
+    left: 60%;
+    width: 25%; 
+    padding: 66px;
+    border-radius: 20px;
+    background-color: #f0f2f5;
+
+}
+input{
+    padding: 15px;
+    width: 100%;
+    border:none;
+    border-radius: 10px;
+
+    
+}
+img{
+    background-color: black;
+}
